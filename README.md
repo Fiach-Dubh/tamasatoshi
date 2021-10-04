@@ -1,4 +1,4 @@
-# tamasatoshi
+# TamasaToshi
 Making Bitcoin Node Operation for Kids and Adults Fun!
 
 The Challenge:
