@@ -1,6 +1,10 @@
 # TamasaToshi
 Making Bitcoin Node Operation for Kids and Adults Fun!
 
+
+Stage of Project: Ideaization
+
+
 The Challenge:
 
 The Bitcoin node count has not gone up with adoption as much as hoped. Over the past 2 years the node count is up 21%, but this growth could and argueably should be much 
