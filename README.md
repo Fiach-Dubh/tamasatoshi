@@ -24,6 +24,10 @@ Enter TamasaToshi.
 
 The Solution:
 
-TamasaToshi is a simple idea. Sync your Bitcoin node with a animal like digital entity that survives and thrives on the health of your Bitcoin node.
+TamasaToshi is a simple idea. Sync your Bitcoin node with a animal like digital entity that survives and thrives on the health of your Bitcoin node. The goal is to make running a Bitcoin full node fun for kids, and maybe even adults too!
+
+By representing a Bitcoin node as a small animal hungry for bitcoin blocks we hope to create an emotional attachment early in life that extends into adulthood. This will also help generate learning oppurtunities for why it is important to run a Bitcoin node if one wants to be self-soverign in this ecosystem. Completeing small tasks associated with the proper function of a Bitcoin node can generate points to be used for the growth and upgrading of your TamasaToshi.
+
+
 
 
